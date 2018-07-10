@@ -1,0 +1,23 @@
+{
+  "name": "islproxy",
+  "version": "1.0.0",
+  "description": "blah blah",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "blah"
+  ],
+  "author": "dan",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.5"
+  }
+}
